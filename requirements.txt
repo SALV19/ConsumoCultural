@@ -1,0 +1,7 @@
+langchain
+IPython
+langchain_community
+langgraph
+duckduckgo-search
+langchain-ollama
+pandas
