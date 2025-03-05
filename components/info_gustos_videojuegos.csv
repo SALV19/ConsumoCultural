@@ -1,71 +1,70 @@
-,,,
-Nombre,Carrera,Edad,Videojuegos
-María-Fernanda-Ayala-Polo    ,IDS,20,Mario-Kart
-Lorenza-Rodríguez-Moragrega,ARQ,19,Mario-Kart
-Francisco-Jesús-Ayala-Escolano,ARQ,20,Minecraft
-Francisco-Jesús-Ayala-Escolano,ARQ,20,GTAV
-Francisco-Jesús-Ayala-Escolano,ARQ,20,Assasins-Creed
-Santiago-Alducin-Villaseñor,ITC,20,Elden-Ring
-Santiago-Alducin-Villaseñor,ITC,20,PAYDAY-2
-Santiago-Alducin-Villaseñor,ITC,20,Ark-Survival-Evolved
-Santiago-Alducin-Villaseñor,ITC,20,Zelda
-Santiago-Alducin-Villaseñor,ITC,20,Skyrim
-Emilio Navarro Herrero,IMT,21,Ghost-of-Tsushima
-Emilio Navarro Herrero,IMT,21,Spiderman
-Leonel-Quintero-García,IM,20,Minecraft
-Leonel-Quintero-García,IM,20,Subway-Surfers
-Leonel-Quintero-García,IM,20,The-Sims
-Leonel-Quintero-García,IM,20,Roblox
-Gustavo-Omar-López-Rodríguez,LAD,19,Ark-Survival-Evolved
-Gustavo-Omar-López-Rodríguez,LAD,19,Gears-of-war-3
-Gustavo-Omar-López-Rodríguez,LAD,19,Marvel-Rivals
-Zinedine-Zetina-Valle,LAD,19,Halo-Reach
-Zinedine-Zetina-Valle,LAD,19,Hell-let-loose
-Zinedine-Zetina-Valle,LAD,19,Voices-of-the-void
-Zinedine-Zetina-Valle,LAD,19,Metro-2033
-Zinedine-Zetina-Valle,LAD,19,Disco-Elysium
-Efraín Ornelas Licona,LC,19,Assassin's Creed Origins
-Stephanie-Fabrizia-Colina-León,IIS,19,God-of-War
-Efraín Ornelas Licona,LC,19,Red Dead Redemption 2
-Efraín Ornelas Licona,LC,19,The witcher 3
-Efraín Ornelas Licona,LC,,Life is strange
-Efraín Ornelas Licona,LC,19,Halo 3
-Efraín Ornelas Licona,LC,19,Batman Arkham City
-Efraín Ornelas Licona,LC,19,Cyberpunk 2077
-Juan-Carlos-Moreno-Nieves,IC,21,GTA 5
-Juan-Carlos-Moreno-Nieves,IC,21,FIFA
-Stanislav Federico Borys Viveros,IMT,20,The-Legend-of-Zelda-Breath-of-the-Wild
-Stanislav Federico Borys Viveros,IMT,20,The-Last-of-Us
-Stanislav Federico Borys Viveros,IMT,20,Minecraft
-Stanislav Federico Borys Viveros,IMT,20,Super-Mario-Galaxy
-Juan-Pablo-Medina-Alvarado,LAD,19,The-Legend-Of-Zelda-Breath-of-the-Wild
-Juan-Pablo-Medina-Alvarado,LAD,19,Mario-Oddysey
-Juan-Pablo-Medina-Alvarado,LAD,19,Rayman-Origins
-Juan-Pablo-Medina-Alvarado,LAD,19,Human-Fall-Flat
-Sofia Domenica Berra Alvarez,LDI,19,Tetris
-Sofia Domenica Berra Alvarez,LDI,19,Cake sort
-Regina Sandoval Dimas ,LC,20,Preguntados 
-Regina Sandoval Dimas ,LC,20,Fruit-merge
-Regina Sandoval Dimas ,LC,20,lava-boy-water-girl
-Caryanne-J.-Santana-López,LC,19,Free-fire
-Caryanne-J.-Santana-López,LC,19,Roblox
-Caryanne-J.-Santana-López,LC,19,Justice league
-Caryanne-J.-Santana-López,LC,19,Township
-Vanessa-Michelle-Chávez-Parra,LC,19,Minecraft
-Vanessa-Michelle-Chávez-Parra,LC,19,Roblox
-Vanessa-Michelle-Chávez-Parra,LC,19,COD
-miranda bernal perez,arq,19,mario-kart
-Daniela-Cázares-Cárdenas,LAD,19,Sun-Haven
-Daniela-Cázares-Cárdenas,LAD,19,Homicipher
-Carlos Ángel Ramírez Ramos,IAG,20,Fifa
-Carlos Ángel Ramírez Ramos,IAG,20,Call-of-duty
-Carlos Ángel Ramírez Ramos,IAG,20,Resident-evil
-Carlos Ángel Ramírez Ramos,IAG,20,Fallout
-Claudio Gabriel Lopez Briceño,ITC,20,Minecraft
-Claudio Gabriel Lopez Briceño,ITC,20,Call-of-duty-bo2
-Claudio Gabriel Lopez Briceño,ITC,20,GTAV
-Alan Dahir Andalla Rivera,IAG,19,Minecraft
-Alan Dahir Andallan Rivera,IAG,,Fifa
-Gabriela-Henández-Pérez,LAD,20,Uncharted
-Gabriela-Henández-Pérez,LAD,20,Friv
-Gabriela-Henández-Pérez,LAD,20,Warframe
+Nombre,Carrera,Edad,Videojuegos,Genre
+María-Fernanda-Ayala-Polo    ,IDS,20,Mario-Kart,Racing
+Lorenza-Rodríguez-Moragrega,ARQ,19,Mario-Kart,Racing
+Francisco-Jesús-Ayala-Escolano,ARQ,20,Minecraft,Sandbox
+Francisco-Jesús-Ayala-Escolano,ARQ,20,GTAV,Action-Adventure
+Francisco-Jesús-Ayala-Escolano,ARQ,20,Assasins-Creed,Action-Adventure
+Santiago-Alducin-Villaseñor,ITC,20,Elden-Ring,Action
+Santiago-Alducin-Villaseñor,ITC,20,PAYDAY-2,Action
+Santiago-Alducin-Villaseñor,ITC,20,Ark-Survival-Evolved,Survival
+Santiago-Alducin-Villaseñor,ITC,20,Zelda,Action-Adventure
+Santiago-Alducin-Villaseñor,ITC,20,Skyrim,Action
+Emilio Navarro Herrero,IMT,21,Ghost-of-Tsushima,Action-Adventure
+Emilio Navarro Herrero,IMT,21,Spiderman,Action
+Leonel-Quintero-García,IM,20,Minecraft,Sandbox
+Leonel-Quintero-García,IM,20,Subway-Surfers,Endless Runner
+Leonel-Quintero-García,IM,20,The-Sims,Life Simulation
+Leonel-Quintero-García,IM,20,Roblox,Sandbox
+Gustavo-Omar-López-Rodríguez,LAD,19,Ark-Survival-Evolved,Survival
+Gustavo-Omar-López-Rodríguez,LAD,19,Gears-of-war-3,Action
+Gustavo-Omar-López-Rodríguez,LAD,19,Marvel-Rivals,Fighting
+Zinedine-Zetina-Valle,LAD,19,Halo-Reach,First-Person Shooter
+Zinedine-Zetina-Valle,LAD,19,Hell-let-loose,Action
+Zinedine-Zetina-Valle,LAD,19,Voices-of-the-void,Survival Horror
+Zinedine-Zetina-Valle,LAD,19,Metro-2033,First-Person Shooter
+Zinedine-Zetina-Valle,LAD,19,Disco-Elysium,RPG
+Efraín Ornelas Licona,LC,19,Assassin's Creed Origins,Action-Adventure
+Stephanie-Fabrizia-Colina-León,IIS,19,God-of-War,Action-Adventure
+Efraín Ornelas Licona,LC,19,Red Dead Redemption 2,Western
+Efraín Ornelas Licona,LC,19,The witcher 3,Action
+Efraín Ornelas Licona,LC,,Life is strange,Adventure
+Efraín Ornelas Licona,LC,19,Halo 3,First-Person Shooter
+Efraín Ornelas Licona,LC,19,Batman Arkham City,Action-Adventure
+Efraín Ornelas Licona,LC,19,Cyberpunk 2077,RPG
+Juan-Carlos-Moreno-Nieves,IC,21,GTA 5,Action
+Juan-Carlos-Moreno-Nieves,IC,21,FIFA,Sports
+Stanislav Federico Borys Viveros,IMT,20,The-Legend-of-Zelda-Breath-of-the-Wild,Action-Adventure
+Stanislav Federico Borys Viveros,IMT,20,The-Last-of-Us,Action
+Stanislav Federico Borys Viveros,IMT,20,Minecraft,Sandbox
+Stanislav Federico Borys Viveros,IMT,20,Super-Mario-Galaxy,Platformer
+Juan-Pablo-Medina-Alvarado,LAD,19,The-Legend-Of-Zelda-Breath-of-the-Wild,Action
+Juan-Pablo-Medina-Alvarado,LAD,19,Mario-Oddysey,Platformer
+Juan-Pablo-Medina-Alvarado,LAD,19,Rayman-Origins,Platformer
+Juan-Pablo-Medina-Alvarado,LAD,19,Human-Fall-Flat,Puzzle
+Sofia Domenica Berra Alvarez,LDI,19,Tetris,Puzzle
+Sofia Domenica Berra Alvarez,LDI,19,Cake sort,Puzzle
+Regina Sandoval Dimas ,LC,20,Preguntados ,Quiz
+Regina Sandoval Dimas ,LC,20,Fruit-merge,Puzzle
+Regina Sandoval Dimas ,LC,20,lava-boy-water-girl,Adventure
+Caryanne-J.-Santana-López,LC,19,Free-fire,Battle Royale
+Caryanne-J.-Santana-López,LC,19,Roblox,Sandbox
+Caryanne-J.-Santana-López,LC,19,Justice league,Fighting
+Caryanne-J.-Santana-López,LC,19,Township,Simulation
+Vanessa-Michelle-Chávez-Parra,LC,19,Minecraft,Sandbox
+Vanessa-Michelle-Chávez-Parra,LC,19,Roblox,Sandbox
+Vanessa-Michelle-Chávez-Parra,LC,19,COD,First-Person Shooter
+miranda bernal perez,arq,19,mario-kart,Racing
+Daniela-Cázares-Cárdenas,LAD,19,Sun-Haven,Adventure
+Daniela-Cázares-Cárdenas,LAD,19,Homicipher,Puzzle
+Carlos Ángel Ramírez Ramos,IAG,20,Fifa,Sports
+Carlos Ángel Ramírez Ramos,IAG,20,Call-of-duty,First-Person Shooter
+Carlos Ángel Ramírez Ramos,IAG,20,Resident-evil,Survival Horror
+Carlos Ángel Ramírez Ramos,IAG,20,Fallout,RPG
+Claudio Gabriel Lopez Briceño,ITC,20,Minecraft,Sandbox
+Claudio Gabriel Lopez Briceño,ITC,20,Call-of-duty-bo2,First-Person Shooter
+Claudio Gabriel Lopez Briceño,ITC,20,GTAV,Action-Adventure
+Alan Dahir Andalla Rivera,IAG,19,Minecraft,Sandbox
+Alan Dahir Andallan Rivera,IAG,,Fifa,Sports
+Gabriela-Henández-Pérez,LAD,20,Uncharted,Action-Adventure
+Gabriela-Henández-Pérez,LAD,20,Friv,Casual
+Gabriela-Henández-Pérez,LAD,20,Warframe,Action
